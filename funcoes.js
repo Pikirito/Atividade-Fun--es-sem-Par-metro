@@ -5,6 +5,7 @@ function olaMundo() {
 olaMundo();
 olaMundo();
 
+
 //Exercícios 2
 function requisitado(){
     const entrega = 100
@@ -18,6 +19,7 @@ function requisitado(){
 }
 }
 requisitado()
+
 
 //Exercicio 3
 function bigNumber(){
@@ -40,8 +42,6 @@ function bigNumber(){
 bigNumber()
 
 
-
-
 //Exercicios 3,1
 function maiorNumero(num1,num2,num3){
    let resultado = 0
@@ -58,6 +58,7 @@ function maiorNumero(num1,num2,num3){
     
 }
 console.log(maiorNumero(90,120,30))
+
 
 //Exercicio 4 
 function info (nome,sobreNome,idade){
